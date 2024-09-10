@@ -2,3 +2,10 @@
     width: 800px;
     text-align: center;
 }
+
+h1 { 
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: deeppink;
+    margin: 20px;
+}
