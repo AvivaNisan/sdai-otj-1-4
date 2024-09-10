@@ -30,3 +30,8 @@ h4 {
     color: orange;
     margin: 20px; ;
 }
+
+.style-text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px;
+}
